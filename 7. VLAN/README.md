@@ -6,7 +6,7 @@ A broadcast domain is a network segment in which if a device broadcast a packet 
 
 In this project we first create our vlans. each vlan has a number that is the number that is assigned to its hosts. at first, only hosts in the same vlan can ping each other, but in second part we made a vlan to vlan connection. therefore each host can ping the other. So, in this directory we have two files:
 
-- vlan topology
+- vlan topology (hosts in the same vlan share the same number equal to their vlan number)
 - network with vlan to vlan connection
 
 you can test connections with pinging hosts or using tracert command in hosts.
