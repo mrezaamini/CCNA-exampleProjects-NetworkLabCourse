@@ -1,7 +1,7 @@
 
 <img src="ccna.png" alt="logo" width="100"/>
 
-# CCNA-exampleProjects-NetworkLabCourse 
+# CCNA Example Projects - Network Lab Course :
 
 
 
